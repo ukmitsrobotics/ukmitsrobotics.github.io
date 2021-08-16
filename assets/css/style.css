@@ -906,7 +906,7 @@ section {
 .services {
   height: 120vh;
   /* background-color: rgb(12, 60, 83, 0.5); */
-  background-image: url("D:/XAMPP/htdocs/web-robotika-asli/Arsha/assets/img/gedung-robot-bg.png");
+  background-image: url("/assets/img/gedung-robot-bg.png");
   background-size: cover;
 }
 
